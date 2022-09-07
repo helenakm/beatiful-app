@@ -11,6 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+// Added a new comment!
 
 public class MainActivity extends AppCompatActivity {
 
