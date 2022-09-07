@@ -13,6 +13,8 @@ import android.widget.Toast;
 
 // Added a new comment!
 
+// I wrote a NEW feature here :)
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
